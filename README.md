@@ -47,7 +47,8 @@ the code ran within 60 seconds and it is evaluated on the false positive rate (F
 estimations from groups of hash functions) to estimate the number of unique cities within a
 window in the data stream. 
 * I found proper hash functions and the proper number of hash functions in the Flajolet-Martin algorithm.
-![Image of Sensorplacement](https://github.com/thotamohan/Spark-streaming/blob/master/spark.image.png)
+<img width="546" alt="Screen Shot 2021-05-18 at 2 07 44 PM" src="https://user-images.githubusercontent.com/55113221/118723560-6df1ff00-b7e2-11eb-8565-01258a7481c7.png">
+
 
 ## **Task3: Fixed Size Sampling on Twitter Streaming**
 * You will use Twitter API of streaming to implement the fixed size sampling method (Reservoir
